@@ -1,0 +1,10 @@
+.genre {
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    left: 8%;
+    top: 20%;
+    justify-content: space-around;
+    max-width: 67%;
+
+}
